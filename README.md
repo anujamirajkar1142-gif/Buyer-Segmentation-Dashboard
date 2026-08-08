@@ -17,11 +17,8 @@ This project uses Machine Learning to segment real estate buyers based on their 
 - Streamlit
 - Plotly
 
-## Dashboard
-Interactive dashboard for analyzing buyer segments.
-
-## 📁 Dataset
-Contains customer investment and demographic data.
+## Live App
+https://anujamirajkar1142-gif-buyer-segmentation-dashboard-app-mr2vyu.streamlit.app/
 
 ## Author
 Anuja Mirajkar
